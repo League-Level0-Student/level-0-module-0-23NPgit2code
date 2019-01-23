@@ -23,4 +23,10 @@ Dot.setSpeed(255);
         // 5. Do everything below here 4 times
 for (int i = 0; i < 4; i++) {
 
+	
+	
+}
+
+    }
+}
         //         2. Move your robot 200 p
